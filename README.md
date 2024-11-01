@@ -18,5 +18,4 @@ I also created a project for utilizing convolutional Generative Adversarial netw
 ![image](https://github.com/user-attachments/assets/87a81b8a-e905-4b06-9d5d-233a21de3abb)
 
 
-Convolutional GAN:
-![image](https://github.com/user-attachments/assets/96b117a6-6218-4d8f-a491-d540131a330f)
+Convolutional GAN: ![image](https://github.com/user-attachments/assets/96b117a6-6218-4d8f-a491-d540131a330f)
