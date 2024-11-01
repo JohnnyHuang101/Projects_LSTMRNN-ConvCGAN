@@ -15,7 +15,4 @@ LSTM/RNN
 
 I also created a project for utilizing convolutional Generative Adversarial networks for creating synthetic image datasets. This is my first attempt at creating a generative network for images but in the past I have worked with VAEs. I wanted to try out convolutional GANS particularily to see how well it would adapt to different modalities and the results were promising in terms of simplier images like MNIST. CelebA dataset was also attempted but GANS with the amount of layers I put was not strong enough and the errors remained high. I wonder if transformers can be tried next. I have the training log below.
 
-![image](https://github.com/user-attachments/assets/87a81b8a-e905-4b06-9d5d-233a21de3abb)
-
-
-Convolutional GAN: ![image](https://github.com/user-attachments/assets/96b117a6-6218-4d8f-a491-d540131a330f)
+Convolutional GAN:![image](https://github.com/user-attachments/assets/87a81b8a-e905-4b06-9d5d-233a21de3abb)![image](https://github.com/user-attachments/assets/96b117a6-6218-4d8f-a491-d540131a330f)
